@@ -1,0 +1,18 @@
+# Ignorar arquivos temporários e credenciais
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.env
+
+# Ignorar dados sensíveis
+dados/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar o arquivo relacionado a descrição do desafio
+JR AI Engineer - Charla Case.pdf
